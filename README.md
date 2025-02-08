@@ -6,7 +6,7 @@
 - 🇯🇵 Working in Tokyo
 - 🇮🇳 From India
 - 🚀 Follow my work at[ https://norgate.dev/](https://norgate.dev/) 🈺
-- 🐕 [Helpbark.com ](https://helpbark.com/) WIP 🚧
+- 🐕 WIP on 🚧 [Helpbark.com ](https://helpbark.com/) 
 
 <!---
 diszrahul/diszrahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
